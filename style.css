@@ -1,0 +1,22 @@
+@media only screen and (max-width:780px) {
+   .navbar1{
+    display: block !important;
+
+   }
+   .navbar2{
+    display: none !important;
+   }
+  }
+  @media only screen and (min-width:780px) {
+    .navbar1{
+     display: none !important;
+ 
+    }
+    .navbar2{
+     display: block !important;
+    }
+   }
+
+   .sliderimg{
+    height: 300px;
+   }
